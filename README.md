@@ -3,8 +3,8 @@
 
 - [Коллекции Postman](https://github.com/ivettewo/postman)
 - [Коллекция Python](https://github.com/ivettewo/python)
-- [Исправьте пжалста]()
-- []()
+- [Исправьте пжалста](https://github.com/ivettewo/need_fix)
+- [Что-то случайное](https://github.com/ivettewo/random)
 
 ### Стек:
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
@@ -21,4 +21,4 @@
 
 #### Мусор:
 - [Общая корзина](https://github.com/ivettewo/trash)
-- [Интересные мелочи]()
+- [Интересные мелочи](https://github.com/ivettewo/trash/int)
