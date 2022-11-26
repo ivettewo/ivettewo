@@ -1,4 +1,4 @@
-###  👋
+###  На переоформлени! Крепчайте!👋
 
 ### Стек:
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
@@ -8,3 +8,4 @@
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![DevTools](https://img.shields.io/static/v1?style=for-the-badge&message=DevTools&color=222222&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![TestRail](https://img.shields.io/static/v1?style=for-the-badge&message=TestRail&color=222222&logo=%C3%A9&logoColor=FECC00&label=)
+
