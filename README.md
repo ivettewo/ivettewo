@@ -21,4 +21,4 @@
 
 #### Мусор:
 - [Общая корзина](https://github.com/ivettewo/trash)
-- [Интересные мелочи](https://github.com/ivettewo/trash/int)
+- [Интересные мелочи](https://github.com/ivettewo/trash/tree/main/int)
