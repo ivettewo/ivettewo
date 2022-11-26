@@ -1,4 +1,4 @@
-###  На переоформлени! Крепчайте!👋
+###  Сделаю красиво! Крепчайте!👋
 
 ### Стек:
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
