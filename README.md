@@ -10,3 +10,6 @@
 ![TestRail](https://img.shields.io/static/v1?style=for-the-badge&message=TestRail&color=222222&logo=%C3%A9&logoColor=FECC00&label=)
 
 [Настроение](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
+
+### Связь
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/sawich94)
