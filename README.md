@@ -1,9 +1,10 @@
-###  Сделаю красиво! Крепчайте!👋
-
-## Мои песели 👋
+## Здесь играем по моим правилам 👋
 [Настроение](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
 
-- asd
+- [Коллекции Postman](https://github.com/ivettewo/postman)
+- [Коллекция Python](https://github.com/ivettewo/python)
+- [Исправьте пжалста]()
+- []()
 
 ### Стек:
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
