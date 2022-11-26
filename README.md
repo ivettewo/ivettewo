@@ -1,6 +1,7 @@
 ###  Сделаю красиво! Крепчайте!👋
 
 ### Мои песели :>
+[Настроение](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
 
 - asd
 
@@ -13,12 +14,10 @@
 ![DevTools](https://img.shields.io/static/v1?style=for-the-badge&message=DevTools&color=222222&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![TestRail](https://img.shields.io/static/v1?style=for-the-badge&message=TestRail&color=222222&logo=%C3%A9&logoColor=FECC00&label=)
 
-[Настроение](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
-
 ### Я есть в:
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/sawich94)
 
 
 #### Мусор:
-- Общая корзина
-- Интересные мелочи
+- [Общая корзина](https://github.com/ivettewo/trash)
+- [Интересные мелочи]()
