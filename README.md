@@ -9,4 +9,4 @@
 ![DevTools](https://img.shields.io/static/v1?style=for-the-badge&message=DevTools&color=222222&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![TestRail](https://img.shields.io/static/v1?style=for-the-badge&message=TestRail&color=222222&logo=%C3%A9&logoColor=FECC00&label=)
 
-[Настроение](https://www.youtube.com/watch?v=dp1VG050tS0&ab_channel=XxdrippyYT)
+[Настроение](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
