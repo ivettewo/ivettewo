@@ -1,5 +1,9 @@
 ###  Сделаю красиво! Крепчайте!👋
 
+### Мои песели :>
+
+- asd
+
 ### Стек:
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
@@ -11,5 +15,5 @@
 
 [Настроение](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
 
-### Связь
+### Я есть в:
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/sawich94)
