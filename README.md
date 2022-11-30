@@ -1,7 +1,7 @@
 ## Здесь играем по моим правилам 👋
 Настрой:
-- [ ] [Отличный день](https://www.youtube.com/watch?v=h31THl8shy4&ab_channel=SumerianRecords)
-- [ ] [Грустный день](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
+- [ ] [Отличный, на](https://www.youtube.com/watch?v=h31THl8shy4&ab_channel=SumerianRecords) продуктивный день;
+- [ ] [Грустный, на](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) продуктивный день.
 
 Контент:
 - [Коллекции Postman](https://github.com/ivettewo/postman)
