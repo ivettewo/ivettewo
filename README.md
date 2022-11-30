@@ -1,5 +1,7 @@
 ## Здесь играем по моим правилам 👋
-[Настроение](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
+- Настрой:
+- [x] [Отличный день](https://www.youtube.com/watch?v=h31THl8shy4&ab_channel=SumerianRecords)
+- [x] [Грустный день](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) на продуктивный день.
 
 - [Коллекции Postman](https://github.com/ivettewo/postman)
 - [Коллекция Python](https://github.com/ivettewo/python)
