@@ -1,6 +1,6 @@
 ## Здесь играем по моим правилам 👋
 Настрой:
-- [ ] [Отличный, на](https://www.youtube.com/watch?v=h31THl8shy4&ab_channel=SumerianRecords) продуктивный день;
+- [ ] [Отличный, на](https://open.spotify.com/playlist/2u2UIca0pu2kbym2ag5oku?si=65baeb6242c44d3d) продуктивный день;
 - [ ] [Грустный, на](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) продуктивный день.
 
 Контент:
