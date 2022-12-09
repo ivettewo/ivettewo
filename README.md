@@ -1,13 +1,13 @@
 ## Здесь играем по моим правилам 👋
 ![Alt-текст](https://i.imgur.com/wQq1SZA.png)
 
-####Настрой:
+#### Настрой:
 - [ ] [Отличный, на](https://open.spotify.com/playlist/2u2UIca0pu2kbym2ag5oku?si=65baeb6242c44d3d) продуктивный день;
 - [ ] [Грустный, на](https://www.youtube.com/watch?v=i5wpUuZNy14&ab_channel=UKFDrum%26Bass) продуктивный день;
 - [ ] [Составление кейсов/багрепорт](https://open.spotify.com/playlist/2u2UIca0pu2kbym2ag5oku?si=65baeb6242c44d3d);
 - [ ] [Регресс](https://open.spotify.com/playlist/2u2UIca0pu2kbym2ag5oku?si=65baeb6242c44d3d).
 
-####Контент:
+#### Контент:
 - [Коллекции Postman](https://github.com/ivettewo/postman)
 - [Коллекция Python](https://github.com/ivettewo/python)
 - [Исправьте пжалста](https://github.com/ivettewo/need_fix)
