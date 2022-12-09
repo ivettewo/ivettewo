@@ -5,6 +5,7 @@
 - [ ] [Составление кейсов/багрепорт](https://open.spotify.com/playlist/2u2UIca0pu2kbym2ag5oku?si=65baeb6242c44d3d);
 - [ ] [Регресс](https://open.spotify.com/playlist/2u2UIca0pu2kbym2ag5oku?si=65baeb6242c44d3d).
 
+![Alt-текст](https://i.imgur.com/wQq1SZA.png)
 Контент:
 - [Коллекции Postman](https://github.com/ivettewo/postman)
 - [Коллекция Python](https://github.com/ivettewo/python)
